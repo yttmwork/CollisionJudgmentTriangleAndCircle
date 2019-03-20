@@ -1,0 +1,2 @@
+# CollisionJudgmentTriangleAndCircle
+三角形と円の当たり判定を行う処理を実装する
